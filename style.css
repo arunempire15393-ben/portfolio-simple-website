@@ -1,0 +1,155 @@
+.container{
+    padding: 50px;
+}
+body{
+  font-family: "Roboto Slab", serif;
+}
+.section-one{
+    color: black;
+    background-color :rgb(203, 212, 209);
+    text-decoration:none;
+    padding: 20px;
+     margin-right: 300px;
+     margin-left:300px ;
+     margin-top:20px ;
+     margin-bottom:20px ;
+    border-radius: 10px;
+    
+}
+.section-one__name{
+font-size:70px;
+text-decoration:none;
+
+}
+.section-one__role{
+    font-size:30px;
+    text-decoration: none;
+}
+ .section-one__contact
+    {
+        color: black ;
+        background-color: rgb(122, 238, 235);
+        text-decoration: none;
+        border-radius: 5px;
+        margin: 9px;
+        padding:9px ;
+
+        
+    }
+     .section-one__home
+    {
+        color: black ;
+        background-color: rgb(122, 238, 235);
+        text-decoration: none;
+        border-radius: 5px;
+        margin: 9px;
+        padding:9px ;
+
+        
+    }
+    .section-two,.section_three,.section-four,.section-five{
+        padding: 10px;
+        margin: 10px;
+
+    }
+    .section-two{
+         color: black;
+      background-color :rgb(203, 212, 209);
+    padding: 20px;
+     margin-right: 300px;
+     margin-left:300px ;
+     margin-top:20px ;
+     margin-bottom:20px ;
+    border-radius: 10px;
+    
+ }
+ .section-three
+ {
+          color: black;
+    background-color :rgb(203, 212, 209);
+   
+   padding-left:200;
+    padding: 20px;
+
+    display: inline-block;
+     margin-left:300px ;
+     margin-top:20px ;
+     margin-bottom:20px ;
+    border-radius: 10px;
+    vertical-align:top;
+    width:200px;
+    height: 265px;;
+    
+ }
+ .section-three__desc{
+    padding-left: 10px;
+ }
+ .section-three__desc,.section-four__desc{
+    list-style: none;
+ }
+ .section-four{
+          color: black;
+    background-color :rgb(203, 212, 209);
+    padding: 20px;
+     display: inline-block;
+    vertical-align:top;
+     margin-top:20px ;
+     margin-bottom:20px ;
+     width:470px;
+    border-radius: 10px;
+    
+ }
+ .section-five{
+             color: black;
+    background-color :rgb(203, 212, 209);
+    padding: 20px;
+     margin-right: 300px;
+     margin-left:300px ;
+     margin-top:20px ;
+     margin-bottom:20px ;
+    border-radius: 10px;
+    
+ }
+
+
+ .container{
+    margin: 20px;
+
+ }
+ .contact-form{
+    color: black;
+    background-color :rgb(203, 212, 209);
+    text-decoration:none;
+    padding: 20px;
+     margin-right: 300px;
+     margin-left:300px ;
+     margin-top:20px ;
+     margin-bottom:20px ;
+    border-radius: 10px;
+    
+  
+ }
+ .contact-form__input{
+    padding:10px;
+    border-bottom:solid black 1px ;
+    border:none;
+ }
+ .contact-form__email{
+     padding:10px;
+    border-bottom:solid black 1px ;
+    border:none;
+ }
+ .contact-form__textarea{
+
+    padding:10px;
+    border-bottom:solid black 1px ;
+    border:none;
+ }
+ .contact-form__submit{
+     padding:10px;
+    border-bottom:solid black 1px ;
+    border-radius: 5px;
+ }
+
+
+ 
